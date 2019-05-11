@@ -6,12 +6,20 @@ permalink: /about/
 
 I am currently learning data-science and work as an engineer in compliance based assurance.
 
-[Shane](/images/board-bag.png "Shane with snowboard and bag")
+My hobbies include: listening to lofi hip-hop, visual novels, simulation games, jogging, and snowboarding.
+
+![Shane](/images/board-bag.png "Shane with snowboard and bag")
 
 ### Work history
 
 In the past I have:
 * reconstructed telemetry data into a **python** based computer model for analysis and education (videos).
 * used propietry models to simulate perforamance limitations.
-* studied Japanese in Tokyo.
 
+### Contact me
+
+[twitter](https://twitter.com/t3liph0n3/)
+[github](https://github.com/t3liph0n3/)
+[italki](https://www.italki.com/user/2099994/)
+[steam](https://steamcommunity.com/profiles/76561198251858654/)
+[mdn](https://developer.mozilla.org/en-US/profiles/t3liph0n3/)
