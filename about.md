@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently learning data-science and work as an engineer in compliance based assurance.
 
-### More Information
+[Shane](/images/board-bag.png "Shane with snowboard and bag")
 
-A place to include any other types of information that you'd like to include about yourself.
+### Work history
 
-### Contact me
+In the past I have:
+* reconstructed telemetry data into a **python** based computer model for analysis and education (videos).
+* used propietry models to simulate perforamance limitations.
+* studied Japanese in Tokyo.
 
-[email@domain.com](mailto:email@domain.com)
