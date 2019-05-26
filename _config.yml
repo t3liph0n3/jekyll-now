@@ -6,7 +6,7 @@
 name: Shane George
 
 # Short bio or description (displayed in the header)
-description: ...
+description: gaining EXP...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/17660599?s=400&u=e7da7333666899802d8668d46138bdbc40b05f81&v=4
@@ -19,6 +19,7 @@ avatar: https://avatars0.githubusercontent.com/u/17660599?s=400&u=e7da7333666899
 footer-links:
   github: t3liph0n3
   twitter: t3liph0n3
+  ko-fi: t3liph0n3
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
