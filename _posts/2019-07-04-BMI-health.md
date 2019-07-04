@@ -11,5 +11,8 @@ I ate a BigMac from McDonalds for lunch, but for dinner I ate 2 sausages and a s
 
 according to [bmi calc. aus](https://bmicalculatoraustralia.com) it is the average (the aussie average is 27.6).
 
-I measured my blood glucous again at 9pm, 2 hours after dinner (and an hour after the run) it was xxx.
+I measured my blood glucous again around 9pm, 2 hours after dinner (and an hour after the run) it was 5.3mmol/L. So maybe my morning high glucous is nothing to worry about?
 
+The reason I went for a run,  was because I was thinking about doing a half marathon (21km) at the Perth Running festival in October. That stemmed from PT on Tuesday where I asked about running. So today I looked up some tips for training for a half marathon, and it suggested having a 12 week program and then I noticed a hashtag #RWRunStreak about running 1 mile a day. After sitting around all day, driving and doing work at a desk I felt I needed to burn energy.
+
+Maybe I should make a solid goal to get my BMI below 25 (loose 10kg), and run at least 16km a week. Or go all out and run a half marathon in October?
