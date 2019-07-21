@@ -17,7 +17,7 @@ Now _new.sh_ :
 
 ### Here is the code:
 
-``
+'''
 #!/bin/bash
 # make a new entry, with header then open nano
 
@@ -31,7 +31,7 @@ if [ -n "$NAME" ]; then
 else
     echo no title, no post
 fi
-``
+'''
 
 ## combining strings in bash
 When you combine strings you use:
