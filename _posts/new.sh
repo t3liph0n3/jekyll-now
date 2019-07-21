@@ -4,7 +4,7 @@
 d=$(date +%Y-%m-%d)
 echo what is the title of this post?
 read NAME
-if [ -n "$NAME" ]; then
+if [ -n "$NAME" ] && [ "$NAME" = "${NAME//[\ ]}" ]; then
     header=$'---\nlayout: post\ntitle: '$NAME$'\n---\n\n'
     echo "$header" >  $d-$NAME.md
     nano $d-$NAME.md
