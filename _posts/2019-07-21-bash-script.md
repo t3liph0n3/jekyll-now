@@ -50,14 +50,15 @@ I did scratch my head trying to figure out how to call nano to open the new file
 ## double quoation marks
 Double quotes "" cause strings etc. to be processed.
 
-i.e.
 ```
 #!/bin/bash
 TEST=drill
 echo "this is a $TEST"
 echo 'this is a $TEST'
 ```
+
 > this is a drill
+>
 > this is a $TEST
 
 
