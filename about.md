@@ -1,20 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-I am currently learning data-science and work as an engineer in compliance based assurance.
-
-My hobbies include: listening to lofi hip-hop, visual novels, simulation games, jogging, and snowboarding.
+Hi, my name is Shane George.
 
 ![Shane](/images/board-bag.png "Shane with snowboard and bag")
-
-### Work history
-
-In the past I have:
-* reconstructed telemetry data into a **python** based computer model for analysis and education (videos).
-* used propietry models to simulate perforamance limitations.
 
 ### Contact me
 
