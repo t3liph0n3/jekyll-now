@@ -84,3 +84,32 @@ A total of 8 decisions and 7 events (8 including the marriage proposal A-H):
 * H. Red & Blue - Blue proposes to his long term girlfriend
 
 [![critical tree](../images/game-layout4.png)]
+
+You probably can see that this type of game can get very broad. There could possibly be a dozens and dozens of endings. Also a lot of the written game will not be read in a single play through.
+
+If you are not going to explore the other endings, you could make them all bad endings.
+
+i.e.
+* A. If you choose Science for Red, then he is killed in a Science explosion.* B. If Green Kept the Book, then he never meets any of the friends, grows old wondering.
+
+But that would not make a very fun game.
+
+## Look for chances to re-group branches ##
+
+You should think of how some of the decisions do not have an effect on other characters, and take advantage of that to make common scenes.
+
+You could rail road some of the story. If Blue works somewhere else, then Green still introduces the girl. But the text in Scene C references the other shop.
+
+Maybe making the other choice shortens to the story to another ending.
+Ie. Choosing Yellow, then  always offers a way to get to decision 6, but now Taking the illegal cash will give a bad ending - whilst not taking will get you to a good ending.
+
+The more common scenes, or tightening of the branches you design the less you will have to write, design, and test.
+
+## What next ?? ##
+
+Once you have a rough outline, you need to test the idea. Is the story interesting and fun to read. Ask yourself *would I want to play this game?*
+
+**If you answer _No_**, then put the plan into an archive of bad and half baked ideas and flesh out a new idea that will be *fun to play*. 
+#### Or tweek the story and gameplay to make it interesting and fun to play!####
+
+**If you want to play the game**, now you have to figure out the resources to produce it. Hopefully it will not require too many sprites, background images and hours and hours of coding to get the story to flow.
