@@ -67,20 +67,20 @@ In [XMind](https://www.xmind.net) you start by drawing the critical path. The ne
 A total of 8 decisions and 7 events (8 including the marriage proposal A-H):
 
 1. Red chooses a school (he chooses International Studies)
-A. Red & Blue - Blue is studying Science,
+* A. Red & Blue - Blue is studying Science,
 2. Green has a garage sale (gifts books to girls)
-B. Green & Red - Red has got all DI & HD in classes.
+* B. Green & Red - Red has got all DI & HD in classes.
 3. Blue chooses Christmas Work (at flower shop)
-C. Blue & Green - Green introduces a girl from garage sale.
+* C. Blue & Green - Green introduces a girl from garage sale.
 4. Red chooses a language (Japanese) 
-D. Red & Blue - Blue and the girl are dating.
+* D. Red & Blue - Blue and the girl are dating.
 5. Green fails 3 subjects (repeats)
-E. Green & Red - Red is about to apply for a job with shipping company.
+* E. Green & Red - Red is about to apply for a job with shipping company.
 6. Yellow is offered illegal $$ (take)
-F. Yellow & Green - Green is about to start his first day at company.
+* F. Yellow & Green - Green is about to start his first day at company.
 7. Blue is offered an internship (turn down)
-G. Blue & Yellow - Yellow loans Blue some cash, for something for his girlfriend.
+* G. Blue & Yellow - Yellow loans Blue some cash, for something for his girlfriend.
 8. Red decides where to spend holidays (fly home)
-H. Red & Blue - Blue proposes to his long term girlfriend
+* H. Red & Blue - Blue proposes to his long term girlfriend
 
 [![critical tree](../images/game-layout4.png)]
