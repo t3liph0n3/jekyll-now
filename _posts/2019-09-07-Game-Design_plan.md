@@ -17,6 +17,7 @@ There are a lot of ways you could gamify the friendship. I brain stormed a few i
 2. Setting up friends - depending on situation events will happen.
 3. The Fox, Hen and Grain - rules for which characters can be together.
 
+![game decision tree](../images/city-icon.png)
 
 
 ## 1. Friends for Life ##
@@ -63,10 +64,13 @@ Then I thought maybe we could keep the dynamic very simple. Make the game a horr
 
 * _Maybe_ this could get more complex by adding a serries of events, where the characters change roles, or having a more complex problem with 5 or more characters.
 
-I liked this idea, because then it makes more of a reason for the game to have limited locations and to be looping. **The story:** could start at the end, so you know all 4 of your get out alive. Then if a character dies, the story needs to start from the top again (or from the last phase). 
+I liked this idea, because the mechanic can use a looping and only requires limited locations (easier to draw and write). 
 
-Instead of death, maybe the characters could get into a very very big fight (that was simmering, so as to warn the player not to leave 2 angry players together), or a hospital visit, drug overdose or some other [adult fear](https://tvtropes.org/pmwiki/pmwiki.php/Main/AdultFear).
+**The story:** could start at the end, so you know all 4 of your get out alive. Then if a character dies, the story needs to start from the top again (or from the last phase).
 
+Maybe instead of death, the characters could get into a very very big fight (that was simmering, so as to warn the player not to leave 2 angry players together), or a hospital visit, drug overdose or some other [adult fear](https://tvtropes.org/pmwiki/pmwiki.php/Main/AdultFear). But at the heart, the game is one that many people are familiar with and not too complex to code.
+
+![clipart owl from openclipart.org](../images/city-icon.png)
 
 
 ### Drawing the story path ###
@@ -77,27 +81,33 @@ With a game mechanic in mind, you can figure out how to flesh out the story a bi
 
 I sketched out the decisions of the 3 character dynamic. There are 5 states before a decision:
 
-1. Fox and Grain on one side, _Hen_ on other.
+1. Fox and Grain on one side, **Hen** on other. (returned alone)
 2. _Hen_ and Grain on one side, Fox on other.
 3. _Hen_ and Fox on start side, Grain on other.
-4. Hen on start side, **Fox** and Grain on other.
+4. Hen on start side, **Fox** and Grain on other. (returned alone)
 5. Hen and _Grain_ on start side, Fox on other. (what is special because you make a step in the wrong direction to get to it)
 
-So from the map I can now plan for the lables, jumps and decisions the player will have. It also gives an opportunity to split the game into phases, or add another mechanic into the mix, to get the required story.
+You could make the design more complex if you allowed the player to go both direction alone. But, I decided that you must always leave the first location with somebody. 
 
-With this, I can now make up sticky notes, or have documents to flesh out theparts of the story, and see the relationship between the steps.
+From the map and 5 states, I can now plan for the lables, jumps and decisions the player will have. It also gives an opportunity to split the game into phases, or add another mechanic into the mix, to get the required story.
 
 > Similarly,
-> for Idea 1 you can make a timeline, 
-> with the 3 character columns, then map the story branches,
+
+> for Idea 1 you can make a timeline, or decision tree 
+
+> with the 4 character columns, then map the story branches,
+
 > or for Idea 2, you could use a flow chart and state tables 
+
 > to map the conditions and steps to set them up.
 
-I have expanded upon the [Friends for Life idea](https://t3liph0n3.github.io/Game-Design_idea-How's_Old_Mate/) in another blog post.
+I have expanded upon the [Idea 1](https://t3liph0n3.github.io/Game-Design_idea-How's_Old_Mate/) in another blog post (called "How's Old Mate").
 
-### Next ... ###
+### Next flesh out the story... ###
 
-Armed with a sticky note or document for each step of the story, and knowing where it relates in the whole scheme of things. You can now write a draft of the text for each section.
+With the map and list of states/scenes, I can now make up sticky notes, or have documents to flesh out theparts of the story, and see the relationship between the steps.
+
+Armed with a suitable writing method for each step of the story, and knowing where it relates in the whole scheme of things. You can now write a draft of the text for each section.
 
 There are many ways to flesh out the story now. 
 * You could start with a one sentence section summary, then repeat expanding on the summary until you get a good chunky story. 
@@ -105,3 +115,20 @@ There are many ways to flesh out the story now.
 * For each section jot down the motivation for each character, scene, conflict etc. Then fill in the blanks to get some prose.
 
 * read lots of [TV Tropes](https://tvtropes.com/), and subvert, lampshade or  borrow tropes to fill in the story.
+
+### WARNING: Test the story ###
+
+Before moving on to designing and building the game, you need to check that the story is interesting and the game play/decisions engage the player.
+
+If the story is not interesting, and there is no tension or drive players will not play your game.
+
+#### Simply read over your story and ask yourself **is this intersting?** and **would I want to play this game?** ####
+
+![clipart bugspray from openclipart.org](../images/sister-1.png)
+
+If you answer **um**, or **maybe**, then rework your idea. Or put your idea onto a backburner and draw up a new idea for a game.
+
+![clipart from openclipart.org](../images/shop-1.png)
+
+##### If you answer **hell yes!** to both questions, then it is time to start drawing sprites, scenes and pouring long hours into typing, playing, testing and then distributing (or publishing) your game.#####
+
