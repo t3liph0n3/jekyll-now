@@ -73,7 +73,7 @@ Instead of death, maybe the characters could get into a very very big fight (tha
 
 With a game mechanic in mind, you can figure out how to flesh out the story a bit easier. As you thought of your dynamic you were likely thinking of a case or two where the dynamic would work in the game. A diagram is best for this.
 
-[![game decision tree](../images/game-layout.png)]
+![game decision tree](../images/game-layout.png)
 
 I sketched out the decisions of the 3 character dynamic. There are 5 states before a decision:
 
@@ -93,7 +93,7 @@ With this, I can now make up sticky notes, or have documents to flesh out thepar
 > or for Idea 2, you could use a flow chart and state tables 
 > to map the conditions and steps to set them up.
 
-
+I have expanded upon the [Friends for Life idea](https://t3liph0n3.github.io/Game-Design_idea-How's_Old_Mate/) in another blog post.
 
 ### Next ... ###
 
