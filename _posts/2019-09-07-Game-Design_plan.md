@@ -17,7 +17,7 @@ There are a lot of ways you could gamify the friendship. I brain stormed a few i
 2. Setting up friends - depending on situation events will happen.
 3. The Fox, Hen and Grain - rules for which characters can be together.
 
-![game decision tree](../images/city-icon.png)
+![clipart owl from openclipart.org](../images/city-icon.png)
 
 
 ## 1. Friends for Life ##
@@ -92,13 +92,9 @@ You could make the design more complex if you allowed the player to go both dire
 From the map and 5 states, I can now plan for the lables, jumps and decisions the player will have. It also gives an opportunity to split the game into phases, or add another mechanic into the mix, to get the required story.
 
 > Similarly,
-
 > for Idea 1 you can make a timeline, or decision tree 
-
 > with the 4 character columns, then map the story branches,
-
 > or for Idea 2, you could use a flow chart and state tables 
-
 > to map the conditions and steps to set them up.
 
 I have expanded upon the [Idea 1](https://t3liph0n3.github.io/Game-Design_idea-How's_Old_Mate/) in another blog post (called "How's Old Mate").
@@ -130,5 +126,5 @@ If you answer **um**, or **maybe**, then rework your idea. Or put your idea onto
 
 ![clipart from openclipart.org](../images/shop-1.png)
 
-##### If you answer **hell yes!** to both questions, then it is time to start drawing sprites, scenes and pouring long hours into typing, playing, testing and then distributing (or publishing) your game.#####
+##### If you answer **hell yes!** to both questions, then it is time to start drawing sprites, scenes and pouring long hours into typing, playing, testing and then distributing (or publishing) your game. #####
 
