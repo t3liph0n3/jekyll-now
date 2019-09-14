@@ -11,7 +11,7 @@ Each section of the game has 2 friends catchup, explain what has happened since 
 
 There are 4 characters - Blue, Yellow, Green, Red (the primary colours, or sides of an [uckers board](http://www.uckers.co.uk/)).
 
-[![game decision tree draft](../images/game-layout2.png)]
+![game decision tree draft](../images/game-layout2.png)
 
 I sketch up the flow of the story in [XMind](https://www.xmind.net), so I can see the scenes and the decisions that get to that scene. This allows the story to flow logally, and can help writing the game (by knowing branches and what is presumed to have occured).
 
@@ -45,7 +45,7 @@ From my draft decision tree I have 7 decisions and 2 stub scenes are 4 decisions
 * Long 2 -
    Yellow goes to Desert, Red works in Bookshop. 2 years later they meet.
 
-__ The following are decision points to be developed __
+__The following are decision points to be developed__
 * W - a decision for scientist Red -- maybe he will decide if to apply for an internship.
 * X - a decision for Engineer Red
 * Y - a decision for Close School Yellow
@@ -61,7 +61,7 @@ In many ways it is easier to plan a story knowing the end point. Rather than sta
 
 Maybe you decide each path should have 4-10 decisions, and that the _**good ending** is Blue's marriage_.
 
-[![game decision tree early early draft from end](../images/game-layout3.png)]
+![game decision tree early early draft from end](../images/game-layout3.png)
 
 In [XMind](https://www.xmind.net) you start by drawing the critical path. The next step is to think of the decisions that got to the **good ending** and list them out. And the story between the decisions that will link the story.
 A total of 8 decisions and 7 events (8 including the marriage proposal A-H):
@@ -83,7 +83,7 @@ A total of 8 decisions and 7 events (8 including the marriage proposal A-H):
 8. Red decides where to spend holidays (fly home)
 * H. Red & Blue - Blue proposes to his long term girlfriend
 
-[![critical tree](../images/game-layout4.png)]
+![critical tree](../images/game-layout4.png)
 
 You probably can see that this type of game can get very broad. There could possibly be a dozens and dozens of endings. Also a lot of the written game will not be read in a single play through.
 
@@ -110,6 +110,6 @@ The more common scenes, or tightening of the branches you design the less you wi
 Once you have a rough outline, you need to test the idea. Is the story interesting and fun to read. Ask yourself *would I want to play this game?*
 
 **If you answer _No_**, then put the plan into an archive of bad and half baked ideas and flesh out a new idea that will be *fun to play*. 
-#### Or tweek the story and gameplay to make it interesting and fun to play!####
+#### Or tweek the story and gameplay to make it interesting and fun to play! ####
 
 **If you want to play the game**, now you have to figure out the resources to produce it. Hopefully it will not require too many sprites, background images and hours and hours of coding to get the story to flow.
