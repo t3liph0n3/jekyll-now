@@ -1,5 +1,5 @@
 ---
-layout: 100log
+layout: post
 title: r2d0  Tweaking-Jekyll-Now
 mood: frustrated
 music: -
