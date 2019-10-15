@@ -3,9 +3,11 @@ layout: default
 title: 100 days of code log
 permalink: /100daysOfCode/
 ---
+# 100 days of code #
+# 15 Oct - 23 Jan #
 
-  {% for posts in site 100log %}
-    <h2>{{ 100log.title }}</h2>
-    <h4>mood: {{100log.mood}} | listening to: {{100log.music}}</h4>
-    <p>{{ 100log.content | markdownify }}</p>
+  {% for 100log in site 100log %}
+    ## {{ 100log.title }} ##
+    #### mood: {{100log.mood}} | listening to: {{100log.music}} ####
+    {{ 100log.content | markdownify }}
   {% endfor %}
