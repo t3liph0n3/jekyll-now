@@ -4,12 +4,13 @@
 d=$(date +%Y-%m-%d)
 c=$((($(date +%s)-$(date +%s --date "2019-10-15"))/(3600*24)))
 
-echo what is the title of this post?
+echo what is your tag line?
 read NAME
-if [ -n "$NAME" ] && [ "$NAME" = "${NAME//[ ]}" ]; then
-    header=$'---\nlayout: log\ntitle: d-'$c$'r2-'$NAME$'\n---\n\n'
-    echo "$header" >  $d-d$c-$NAME.md
-    nano $d-d$c-$NAME.md
-else
-    echo no title, no post
-fi
+echo what is your current mood?
+read MOOD
+echo what are you currently listening to?
+read MUSIC
+
+header=$'---\nlayout: 100log\ntitle: r2d'$c$'  '$NAME$'\nmood: '$MOOD$'\nmusic: '$MUSIC$'\n---\n\n'$NAME
+echo "$header" >  $d-d$c--$NAME.md
+nano $d-d$c--$NAME.md
