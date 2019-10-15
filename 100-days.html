@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div class="log">
-  {% for post in site.posts %}
+  {% for log in site.posts %}
     <article class="log">
 
-      <h2><a href="{{ site.baseurl }}{{ log.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ log.url }}">{{ log.title }}</a></h2>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ log.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ log.url }}" class="read-more">...</a>
