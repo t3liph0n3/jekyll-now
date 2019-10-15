@@ -10,9 +10,9 @@ layout: default
 
       <div class="entry">
         {{ log.excerpt }}
+        <a href="{{ site.baseurl }}{{ log.url }}" class="read-more">...</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ log.url }}" class="read-more">...</a>
+      
     </article>
   {% endfor %}
 </div>
