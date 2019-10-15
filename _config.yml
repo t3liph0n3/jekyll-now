@@ -72,3 +72,10 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+
+collections:
+  100log:
+    layout: true
+    title: true
+    mood: true
+    music: true
