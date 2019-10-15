@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="r2-log">
-  {% for post in site.r2-log %}
+<div class="post">
+  {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ r2-log.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">...</a>
+      <a href="{{ site.baseurl }}{{ r2-log.url }}" class="read-more">...</a>
     </article>
   {% endfor %}
 </div>
