@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 100 days of code log
+title: 100 days of code plan
 permalink: /100days-plan/
 ---
 
