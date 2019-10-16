@@ -6,7 +6,7 @@ permalink: /100daysOfCode/
 ## 100 days of code ##
 ### 15 Oct - 23 Jan ###
 
-[plan](100days-plan.html)
+<a href="{{ site.baseurl }}/100days-plan">plan</a>
 
 {% for category in site.categories %}
    <ul>

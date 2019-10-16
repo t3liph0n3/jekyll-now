@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 100 days of code log
-permalink: /100daysOfCode-Plan/
+permalink: /100days-plan/
 ---
 
 ![Jekyll GitHub Pages Icon](images/icon-jekyll-githubPages.png)
