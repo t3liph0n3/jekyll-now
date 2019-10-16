@@ -8,7 +8,7 @@ Today I started coding at 7am after a jog, and my hour was really a Jekyll-Now h
 
 * I tried to make a new layout in _layouts, and setting the layout to the new layout. It causes the page to not be rendered.
 * I tried to make a [category](https://jekyllrb.com/docs/collections/), and it didn't process, and the page I made to pull them was a mess. 
-![how my page for pulling category 100day posts looked](../images/r0d0.png)
+![how my page for pulling category 100day posts looked](../images/r2d0.png)
 * I then kept on trying to read and find a way for categories to work.
 * Then I noticed I could use categories in _posts, I found this code snippet
 ```
