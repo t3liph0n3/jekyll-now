@@ -4,16 +4,17 @@ title: 100 days of code plan
 permalink: /100days-plan/
 ---
 
-<a href="https://jekyllrb.com/docs/"><img src="{{ site.baseurl }}images/icon-jekyll-githubPages.png" alt="Jekyll GitHub Pages Icon"/></a>
+<a href="https://jekyllrb.com/docs/">xyz</a>
+![Jekyll GitHub Pages](images/icon-jekyll-githubPages.png)
+<a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html">xyz</a>
+![Bash](images/bash-icon.png)
 
-<a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html"><img src="{{ site.baseurl }}images/bash-icon.png" alt="Bash icon"/></a>
+<a href="https://reactjs.org/">xyz</a>
+![ReactJS](images/icon-ReactJS.png)
+<a href="https://yarnpkg.com/en/">xyz</a>
+![Yarn](images/icon-YarnPkg.png)
+<a href="https://sass-lang.com/">xyz</a>
+ ![Sass](../images/icon-Sass.png)
 
-
-<a href="https://reactjs.org/"><img src="{{ site.baseurl }}images/icon-ReactJS.png" alt="ReactJS icon"/></a>
-
-<a href="https://yarnpkg.com/en/"><img src="{{ site.baseurl }}images/icon-YarnPkg.png" alt="Yarn icon"/></a>
-
-<a href="https://sass-lang.com/"><img src="{{ site.baseurl }}images/icon-Sass.png" alt="Sass icon"/></a>
- 
-
-<a href="https://renpy.org/"><img src="{{ site.baseurl }}images/icon-RenPy.png" alt="Ren'py icon"/></a>
+<a href="https://renpy.org/">xyz</a>
+![Ren'py](../images/icon-RenPy.png)
