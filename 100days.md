@@ -6,8 +6,11 @@ permalink: /100daysOfCode/
 # 100 days of code #
 # 15 Oct - 23 Jan #
 
-  {% for 100log in site.100log %}
-    ## {{ 100log.title }} ##
-    #### mood: {{100log.mood}} | listening to: {{100log.music}} ####
-    {{ 100log.content | markdownify }}
-  {% endfor %}
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
