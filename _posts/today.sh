@@ -6,6 +6,6 @@ c=$((($(date +%s)-$(date +%s --date "2019-10-15"))/(3600*24)))
 
 echo what is your tag line?
 read NAME
-header=$'---\nlayout: 100log\ntitle: r2d'$c$'  '$NAME$'\ncategory: 100daysOfCode\n---\n\n'$NAME
+header=$'---\nlayout: post\ntitle: r2d'$c$'  '$NAME$'\ncategory: 100daysOfCode\n---\n\n'$NAME
 echo "$header" >  $d-d$c--$NAME.md
 nano $d-d$c--$NAME.md

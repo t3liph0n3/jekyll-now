@@ -1,5 +1,5 @@
 ---
-layout: 100log
+layout: post
 title: r2d1  Jekyll-Now--headache
 category: 100daysOfCode
 ---
@@ -23,4 +23,4 @@ Today I started coding at 7am after a jog, and my hour was really a Jekyll-Now h
 ```
 * So by making my r2dX posts a category **100daysOfCode** I can then have them displayed on my 100days.md page with the above code.
 
-* At 9:30 I quickly wrote this post.
+* At 9:30 I quickly updated my bash script for generating the header of these 100DayOfCode posts, and wrote this post.
