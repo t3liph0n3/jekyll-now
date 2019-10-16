@@ -4,11 +4,16 @@ title: 100 days of code plan
 permalink: /100days-plan/
 ---
 
-![Jekyll GitHub Pages Icon](images/icon-jekyll-githubPages.png)
-![Bash icon](images/bash-con.png)
+<img src="images/icon-jekyll-githubPages.png" alt="Jekyll GitHub Pages Icon" width="100"/>
 
-![ReactJS icon](images/icon-ReactJS.png)
-![Yarn icon](images/icon-YarnPkg.png)
-![Sass icon](images/icon-Sass.png)
+<img src="images/bash-icon.png" alt="Bash icon" width="100"/>
 
-![Ren'py icon](images/icon-RenPy.png)
+
+<img src="images/icon-ReactJS.png" alt="ReactJS icon" width="100"/>
+
+<img src="images/icon-YarnPkg.png" alt="Yarn icon" width="100"/>
+
+<img src="images/icon-Sass.png" alt="Sass icon" width="100"/>
+ 
+
+<img src="images/icon-RenPy.png" alt="Ren'py icon" width="100"/>
