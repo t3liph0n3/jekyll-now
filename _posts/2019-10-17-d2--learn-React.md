@@ -5,7 +5,7 @@ category: 100daysOfCode
 ---
 
 learn-React
-![ReactJS](images/icon-ReactJS.ico)
+![ReactJS](../images/icon-ReactJS.ico)
 I started at the logical start point, the ReactJS.com Docs, and it pointed me to a video from [2013 JSConfEU talk by Pete Hunt about rethinking best practices and ReactJS](https://www.youtube.com/watch?v=x7cQ3mrcKaY). In the talk Pete Hunt explains a little of how ReactJS works:
 * _ReactJS seperates concerns_: to increase cohesion and reduce coupling.
 * **getInitialState: fuction (){},** defines the mutable state.
