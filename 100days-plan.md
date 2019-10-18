@@ -5,9 +5,6 @@ permalink: /100days-plan/
 ---
 
 ## Front End Dev ##
-![html5](images/icon-html5.ico)
-![NodeJS](images/icon-NodeJS.ico)
-
 
 * <a href="https://jekyllrb.com/docs/">Jekyll to make this blog, and static sites</a>
 ![Jekyll GitHub Pages](images/icon-jekyll.ico)
@@ -24,6 +21,8 @@ permalink: /100days-plan/
 * <a href="https://sass-lang.com/">To make the sites look nice</a>
  ![Sass](images/icon-Sass.ico)
 
+![html5](images/icon-html5.ico)
+![NodeJS](images/icon-NodeJS.ico)
 
 ## Game Design ##
 * <a href="https://renpy.org/">Ren'py for making a visual novel</a>
