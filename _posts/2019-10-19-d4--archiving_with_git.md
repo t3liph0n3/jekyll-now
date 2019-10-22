@@ -4,7 +4,6 @@ title: r2d4  archiving_with_git
 category: 100daysOfCode
 ---
 
-archiving_with_git
 ![GitHub](../images/icon-GitHub.ico)
 ![Yarn](../images/icon-YarnPkg.ico)
 ![Bash](../images/icon-gnu.ico)
