@@ -4,7 +4,7 @@ title: r2d14  Sass-wasting
 category: 100daysOfCode
 ---
 
-![ReactJS](../images/icon-Sass.ico)
+![Sass](../images/icon-Sass.ico)
 
 Today I started learning about Sass. And honestly 45minutes in, I think it is a waste of time.
 Sass can be done as easily in vanilla CSS it seems.
@@ -16,3 +16,5 @@ I then saw an advert for [sass in 2hrs](https://www.youtube.com/watch?v=_a5j7Kof
 Then I watched [why you should precompile css](https://www.youtube.com/watch?v=5hNDzcpWwFM), that showed how you can use SASS for processing as in changing the colour scheme on the fly or something similiar using looping. And that sparked my interest.
 > You shouldn't be so out of( the loop that you can not see the benefits in a pre-processor, or not even be able to impliment it
 from that quote, I thought back to when I was learning HTML at Highschool and for a long time I thought it was cheating to use website makers like Microsoft Frontpage (or saving word documents as websites) because of the huge amount of waste they generated with extra lines of code and tags that were not required if you wrote the html in a text-editor.
+
+* Later in the day I watched a bit of [Give you CSS Superpowers](https://www.youtube.com/watch?v=roywYSEPSvc). That also covered some grid and making a sample landing page.
